@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "15644987219",
+    "firebase_url": "https://tripit-94c67-default-rtdb.firebaseio.com",
+    "project_id": "tripit-94c67",
+    "storage_bucket": "tripit-94c67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15644987219:android:78c3fed7e0405602569ba6",
+        "android_client_info": {
+          "package_name": "Kaleo.Chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15644987219-kafivp5ic4v811deo8olbjgvifk1o6um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRfUV8iHY4fHNer57w3_upaIdGof2ZiPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15644987219-kafivp5ic4v811deo8olbjgvifk1o6um.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "15644987219-u9akrvbr7ceat103dhkgmpr7gohpk3ig.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Kaleo.Chat.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
